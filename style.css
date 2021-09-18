@@ -1,0 +1,105 @@
+#cornice{
+  width: 950px;
+  height: 620px;
+  background-color: black;
+  margin-top: 0%;
+  border-radius: 16px;
+  opacity: 0.5;
+  margin-bottom: -79%;
+  margin-left: -8%;
+}
+
+
+
+
+
+header{
+  color: #29ce29;
+  margin-top: 7%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img{
+  margin: auto;
+  width: 35%;
+  margin-bottom: -1.5%;
+  margin-left: 34%
+}
+
+header h1 {
+  margin-left: 20%;
+}
+
+.uno {
+  background-color: #29ce29;
+  text-align: center;
+  height: 50px;
+  vertical-align: middle;
+  position: relative;
+
+}
+
+.due {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  position: relative;
+}
+
+.due a {
+
+color: black;
+padding: 5px 8px;
+margin-right:6px;
+}
+
+h2{
+  display: inline-block;
+}
+
+p{
+  margin-top: -2%;
+}
+
+.Carica1{
+  width: 270px;
+  height: 20px;
+  background-color: orange;
+  margin-top: -2%;
+  border-radius: 5px;
+}
+
+.Carica2{
+  width: 425px;
+  height: 20px;
+  background-color: #24d624;
+  margin-top: -2%;
+  border-radius: 5px;
+}
+
+.Carica3{
+  width: 110px;
+  height: 20px;
+  background-color: red;
+  margin-top: -2%;
+  border-radius: 5px;
+}
+
+h2{
+  color: white;
+}
+
+
+
+
+
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+  background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=08ee49e9a8&attid=0.2&permmsgid=msg-f:1711162981308196504&th=17bf45aa55ac6698&view=att&disp=safe);
+  background-size: 1360px;
+}
