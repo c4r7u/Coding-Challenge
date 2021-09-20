@@ -10,7 +10,9 @@
 }
 
 
-
+#checkb {
+    position: relative;
+}
 
 
 header{
@@ -18,7 +20,9 @@ header{
   margin-top: 7%;
   margin-left: 10%;
   margin-right: 10%;
+  position: relative;
 }
+
 
 img{
   margin: auto;
@@ -27,9 +31,11 @@ img{
   margin-left: 34%
 }
 
+
 header h1 {
   margin-left: 20%;
 }
+
 
 .uno {
   background-color: #29ce29;
@@ -39,6 +45,7 @@ header h1 {
   position: relative;
 
 }
+
 
 .due {
   margin: 0;
@@ -50,20 +57,26 @@ header h1 {
   position: relative;
 }
 
-.due a {
 
+.due a {
 color: black;
 padding: 5px 8px;
 margin-right:6px;
 }
 
+
 h2{
   display: inline-block;
+  position: relative;
 }
+
 
 p{
   margin-top: -2%;
+  position: relative;
+  color: white;
 }
+
 
 .Carica1{
   width: 270px;
@@ -71,7 +84,9 @@ p{
   background-color: orange;
   margin-top: -2%;
   border-radius: 5px;
+  position: relative;
 }
+
 
 .Carica2{
   width: 425px;
@@ -79,7 +94,9 @@ p{
   background-color: #24d624;
   margin-top: -2%;
   border-radius: 5px;
+  position: relative;
 }
+
 
 .Carica3{
   width: 110px;
@@ -87,19 +104,18 @@ p{
   background-color: red;
   margin-top: -2%;
   border-radius: 5px;
+  position: relative;
 }
+
 
 h2{
   color: white;
 }
 
 
-
-
-
 body{
   margin-left: 20%;
   margin-right: 20%;
-  background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=08ee49e9a8&attid=0.2&permmsgid=msg-f:1711162981308196504&th=17bf45aa55ac6698&view=att&disp=safe);
+  background-image: url(sfondo.jpg);
   background-size: 1360px;
 }
